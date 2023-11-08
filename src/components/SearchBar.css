@@ -1,0 +1,21 @@
+.search-bar{
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 5px;
+}
+.search-bar form{
+    display: flex;
+    flex-direction: column;
+}
+
+.image-list{
+    margin-top: 100px; 
+    columns: 6 200px;
+    column-gap: 10px;
+}
+img{
+    width: 100%;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
